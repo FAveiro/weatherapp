@@ -8,7 +8,7 @@ import { DataContext } from "../contexts/dataContext";
 
 function Search() {
   const api = {
-    base: "http://api.openweathermap.org/data/2.5/weather?",
+    base: "https://api.openweathermap.org/data/2.5/weather?",
     key: "df6217cf4720d6cae88930e509eb0983",
   };
 
