@@ -45,7 +45,7 @@ function Search() {
   return (
     <div className="container_search">
       <div className="title_search">
-        <h1>Wheater </h1>
+        <h1>Weather </h1>
         <span>App</span>
       </div>
       <div className="container_search_input">
